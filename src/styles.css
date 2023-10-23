@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+#content {
+    height: 100vh;
+}
+
+#palette,
+#diagram {
+    display: inline-block;
+}
+
+#palette {
+    width: 29%;
+    height: 99%;
+}
+
+#diagram {
+    width: 69%;
+    height: 99%;
+}
