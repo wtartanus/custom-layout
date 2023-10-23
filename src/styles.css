@@ -12,11 +12,12 @@ body {
 }
 
 #palette {
-    width: 29%;
+    width: 20%;
     height: 99%;
+    border-right: 1px solid red;
 }
 
 #diagram {
-    width: 69%;
+    width: 79%;
     height: 99%;
 }
