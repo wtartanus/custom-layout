@@ -19,6 +19,7 @@ export const createDiagram = (diagramDiv: HTMLDivElement) => {
                         desiredSize: new go.Size(100, 100)
                     }
                 ),
+                $(go.TextBlock, new go.Binding('text', 'text'))
             )
         ) },
     ]);
