@@ -21,3 +21,10 @@ body {
     width: 79%;
     height: 99%;
 }
+
+.form-switch {
+    display: flex;
+    justify-content: end;
+    gap: 0.5rem;
+    padding-right: 2rem;
+}
